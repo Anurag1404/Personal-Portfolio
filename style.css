@@ -475,10 +475,10 @@ section {
 
 .sectionBody ul {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-wrap: wrap;
     padding: 2em 0em;
-    gap: 4em;
+    gap: 3em;
 }
 
 .sectionBody ul:nth-child(1) {
